@@ -22,8 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://98.81.117.153:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>Password@54321</sonar.password> 
+		<sonar.projectKey>maven-web-application-kkfunda</sonar.projectKey>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
